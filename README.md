@@ -1,4 +1,4 @@
-# SBSPS-Challenge-1505-Sentiment-Analysis-of-COVID-19-Tweets-Dashboard-For-Visualization
+# Sentiment-Analysis-of-COVID-19
 video link--> https://drive.google.com/file/d/1Aa9Jf49ancQFAtykCL0LkzhlCq5YDpmg/view?usp=sharing
 website link--> http://covid19sentimentanalyzer-silly-buffalo-si.eu-gb.mybluemix.net/ 
 # Overview: -
